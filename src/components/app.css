@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Righteous&family=Yanone+Kaffeesatz&display=swap');
+
+/* font-family: 'Open Sans', sans-serif;
+font-family: 'Righteous', cursive;
+font-family: 'Yanone Kaffeesatz', sans-serif; */
+
+h1,h2,h3 {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-weight: normal;
+}
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+*{
+  font-family: 'Open Sans', sans-serif
+}
+.text-center {
+  text-align: center;
+}
