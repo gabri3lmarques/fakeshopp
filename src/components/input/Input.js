@@ -1,7 +1,8 @@
-import React from 'react'
+import React from 'react';
+import './input.scss';
 
 const Input = (props) => {
-  return (<input type="text" onChange={(e) => props.handleSearch(e) } />)
+  return (<input className="search" placeholder="Nome do produto..." type="text" onChange={(e) => props.handleSearch(e) } />)
 }
 
 export default Input
